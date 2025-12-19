@@ -95,7 +95,7 @@ Nikhil-Portfolio/
 1. Go to your repository settings
 2. Navigate to "Pages" section
 3. Select the main branch as the source
-4. Your site will be published at `https://n1kh1lt0x1n.github.io/Nikhil-Portfolio/`
+4. Your site will be published at `https://nikhilpise.me/`
 
 ### Other Platforms
 - **Netlify**: Drag and drop the folder or connect your GitHub repo
